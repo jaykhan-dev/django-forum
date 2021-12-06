@@ -1,0 +1,4 @@
+*.pyc
+/django-forum-env/
+/config/settings/dev.py
+db.sqlite3
